@@ -2,9 +2,9 @@
 Proyectito de Nrbrr Y el Fali
 
 
---------------------------------------
+
 <Planteamiento> 
---------------------------------------
+
 
 WEB app -> ???
 
@@ -14,9 +14,9 @@ Concepto Simple De un Grid de  A x A para jugar al 3 en raya. en cada casilla ha
 En el momento en el que se haga un reto se podra poner una ficha y una vez 3 fichas estén seguidas se finalizara el juego mostrando un ganador
 
 
---------------------------------------
+
 <Necesidades Basicas>
---------------------------------------
+
 
 Base de Datos para poder almacenar las ideas de la comunidad. 
 
@@ -24,9 +24,9 @@ Seccion (User_Ideas) para poder explorar las ideas de la comunidad o escribir la
 
 Establecer Conexion J Vs J para poder interactuar y que cada uno ponga sus fichas. 
 
---------------------------------------
+
 <Formato de Ficheros> (Gracias CharYIPIYI)
---------------------------------------
+
 
 
 my-project/                         # → Repositorio raíz (Git)
@@ -81,9 +81,9 @@ my-project/                         # → Repositorio raíz (Git)
     └── staging.tf
 
 
---------------------------------------
+
 <Planteaminetos a estudiar> 
---------------------------------------
+
 
 Planteamiento Inicial -> Empezar con el juego en si en un motor grafico (Unity) realizar el intercambio de informacion a traves de una pagina web gestionada por nosotros y definir outputs a unity (No se si se puede hacer)
 
@@ -93,9 +93,7 @@ Planteamiento Inicial 3 -> Crear Directamente el juego en Unity Crear una base d
 
 
 
---------------------------------------
 <Como gestionar la BDD> 
---------------------------------------
 
 
 Actores Involucrados -> USUARIOS -> Tiene Informarcion Privada del Usuario.
@@ -109,9 +107,9 @@ Actores Involucrados -> USUARIOS -> Tiene Informarcion Privada del Usuario.
 
 
 
---------------------------------------
+
 <Sugerencias a estudiar> 
---------------------------------------
+
 
 Capacidad de Poner fichas sin necesidad de turnos para cumplir retos -> es necesario una figura de Juez 
 
